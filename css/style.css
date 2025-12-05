@@ -53,7 +53,7 @@ header:hover audio {width: 300px;}
     100% {transform: scale(1);}
 }
 
-.snow {height: 100vh; background: url(../images/snow.png); position: absolute; z-index: 1; animation: snow1 5s infinite linear; width: 100%; left: 0; top: 0; background-size: 30%; filter: blur(1px);}
+.snow {height: 100vh; background: url(../images/snow.png); position: absolute; z-index: 1; animation: snow1 7s infinite linear; width: 100%; left: 0; top: 0; background-size: 30%; filter: blur(1px);}
 @keyframes snow1 {
     0% {background-position: 0 0;}
     100% {background-position: 0px 500px;}
